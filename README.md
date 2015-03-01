@@ -1,5 +1,5 @@
 # Basic Auth
-Global authentication layer for your Meteor app
+A simple way to protect your app with basic HTTP auth
 ```
 meteor add kit:basic-auth
 ```

@@ -1,7 +1,7 @@
 Package.describe({
   name: 'kit:basic-auth',
   version: '0.0.1',
-  summary: 'A simple way to protect your app with basic HTTP auth',
+  summary: 'A simple way to protect your app with HTTP auth',
   git: '',
   documentation: 'README.md'
 });
