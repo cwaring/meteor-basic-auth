@@ -1,6 +1,6 @@
 Package.describe({
   name: 'kit:basic-auth',
-  version: '0.0.1',
+  version: '1.0.0',
   summary: 'A simple way to protect your app with HTTP auth',
   git: 'https://github.com/cwaring/meteor-basic-auth.git',
   documentation: 'README.md'
