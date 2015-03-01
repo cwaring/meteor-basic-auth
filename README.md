@@ -1,5 +1,5 @@
 # Basic Auth
-A simple way to protect your app with basic HTTP auth
+A simple way to protect your app with HTTP auth
 ```
 meteor add kit:basic-auth
 ```
