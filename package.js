@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
-  api.addFiles('kit:basic-auth.js');
+  api.addFiles('kit:basic-auth.js', 'server');
 });
 
 Npm.depends({
